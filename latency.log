@@ -1,15 +1,19 @@
-Wed 28 Mar 2018 17:47:24 BST
+Wed 28 Mar 2018 18:21:56 BST
 
  www.potsandpithoi.com
-75.582/76.811/78.903/1.153
+2 packets transmitted, 2 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 77.274/77.703/78.133/0.430 ms
 
  www.babines-bakery.com
-78.850/79.776/80.420/0.543
+2 packets transmitted, 2 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 79.849/80.421/80.992/0.571 ms
 
  www.waterfallgardens.com
-146.616/147.326/148.144/0.662
+2 packets transmitted, 2 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 145.719/146.207/146.696/0.489 ms
 
  www.udayanaecolodge.com
-374.991/483.256/680.665/114.472
+2 packets transmitted, 2 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 374.331/375.464/376.597/1.133 ms
 = = = = = = = = = = = = = = = = = 
 
