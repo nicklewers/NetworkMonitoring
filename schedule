@@ -1,0 +1,19 @@
+# osx config
+#!/bin/sh
+PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin
+MAILTO=""
+HOME=/home/stusci5/mvk15gsu/net_monitor
+
+# run scripts
+
+# -- latency
+30 8 1-7 4 * ./latency.sh >> latency.log
+30 12 1-7 4 * ./latency.sh >> latency.log
+30 15 1-7 4 * ./latency.sh >> latency.log
+30 19 1-7 4 * ./latency.sh >> latency.log
+
+# -- routing stability/RTT
+
+
+
+  # -- throughput/wget
