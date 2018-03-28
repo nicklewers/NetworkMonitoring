@@ -2,8 +2,7 @@
     # send 5 packets per host
     # latency data to be gained: minimums, averages and maximums for round trip
 
-
-  print $(date)
+  echo $(date)
   print "\n www.potsandpithoi.com"
   ping -c 30 www.potsandpithoi.com | tail -2
 
