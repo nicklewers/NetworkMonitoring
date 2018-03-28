@@ -7,7 +7,7 @@ HOME=/home/stusci5/mvk15gsu/net_monitor
 # run scripts
 
 # -- latency
-00 19 28-30 4 * ./latency.sh >> latency.log
+10 19 28-30 4 * ./latency.sh >> latency.log
 30 8 1-7 4 * ./latency.sh >> latency.log
 30 12 1-7 4 * ./latency.sh >> latency.log
 30 15 1-7 4 * ./latency.sh >> latency.log
