@@ -1,17 +1,17 @@
-# osx config
-#!/bin/sh
-PATH=/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin
+SHELL=/bin/bash
+PATH=/sbin:/bin:/use/sbin:/usr/bin
 MAILTO=""
-HOME=/home/stusci5/mvk15gsu/net_monitor
+HOME=/home/stusci5/mvk15gsu
+
 
 # run scripts
 
 # -- latency
-10 19 28-30 4 * ./latency.sh >> latency.log
-30 8 1-7 4 * ./latency.sh >> latency.log
-30 12 1-7 4 * ./latency.sh >> latency.log
-30 15 1-7 4 * ./latency.sh >> latency.log
-30 19 1-7 4 * ./latency.sh >> latency.log
+*/3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
+# */3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
+# */3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
+# */3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
+# */3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
 
 # -- routing stability/RTT
 
