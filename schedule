@@ -7,15 +7,17 @@ HOME=/home/stusci5/mvk15gsu
 # run scripts
 
 # -- latency
-*/3 * * * * ~/net_monitor/latency.sh >> ~/net_monitor/latency.log
-*/3 * * * * ~/net_monitor/traceroute.sh >> ~/net_monitor/traceroute.log
-# */3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
-# */3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
-# */3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
-# */3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
+35 7 * * * ~/net_monitor/latency.sh >> ~/net_monitor/latency.log
+35 11 * * * ~/net_monitor/latency.sh >> ~/net_monitor/latency.log
+35 15 * * * ~/net_monitor/latency.sh >> ~/net_monitor/latency.log
+35 21 * * * ~/net_monitor/latency.sh >> ~/net_monitor/latency.log
+
 
 # -- routing stability/RTT
-
+37 13 * * * ~/net_monitor/traceroute.sh >> ~/net_monitor/traceroute.log
+37 11 * * * ~/net_monitor/traceroute.sh >> ~/net_monitor/traceroute.log
+37 15 * * * ~/net_monitor/traceroute.sh >> ~/net_monitor/traceroute.log
+37 21 * * * ~/net_monitor/traceroute.sh >> ~/net_monitor/traceroute.log
 
 
   # -- throughput/wget
