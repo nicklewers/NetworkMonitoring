@@ -7,7 +7,8 @@ HOME=/home/stusci5/mvk15gsu
 # run scripts
 
 # -- latency
-*/3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
+*/3 * * * * ~/net_monitor/latency.sh >> ~/net_monitor/latency.log
+*/3 * * * * ~/net_monitor/traceroute.sh >> ~/net_monitor/traceroute.log
 # */3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
 # */3 * * * * net_monitor/latency.sh >> net_monitor/latency.log
 # */3 * * * * net_monitor/latency.sh >> net_monitor/latency.log

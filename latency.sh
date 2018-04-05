@@ -1,18 +1,18 @@
   # ping the four hosts
-    # send 5 packets per host
+    # send 10 packets per host (enough to get conclusive packet loss results)
     # latency data to be gained: minimums, averages and maximums for round trip
 
   echo $(date)
-  echo "\n www.potsandpithoi.com"
-  ping -c 30 www.potsandpithoi.com | tail -2
+  echo "\n www.linkwan.com"
+  ping -c 10 www.linkwan.com | tail -2
 
-  echo "\n www.babines-bakery.com"
-  ping -c 30 www.babines-bakery.com | tail -2
+  echo "\n www.jaguar-network.com"
+  ping -c 10 www.jaguar-network.com | tail -2
 
 
-  echo "\n www.waterfallgardens.com"
-  ping -c 30 www.waterfallgardens.com | tail -2
+  echo "\n www.rhnet.is"
+  ping -c 10 www.rhnet.is | tail -2
 
-  echo "\n www.udayanaecolodge.com"
-  ping -c 30 www.udayanaecolodge.com | tail -2
+  echo "\n www.zintana.com.br"
+  ping -c 10 www.zintana.com.br | tail -2
   echo "= = = = = = = = = = = = = = = = = \n"
