@@ -1,0 +1,90 @@
+
+Thu 5 Apr 13:55:02 BST 2018
+\n www.linkwan.com
+traceroute to www.linkwan.com (218.16.120.36), 30 hops max, 60 byte packets
+ 1  cmp-0-gw.uea.ac.uk (139.222.0.1)  1.310 ms  1.611 ms  2.038 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.457 ms  0.667 ms  0.656 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.072 ms  1.053 ms  1.021 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.466 ms  1.180 ms  1.301 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.944 ms  7.919 ms  7.843 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  9.347 ms  8.127 ms  8.135 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.419 ms  7.371 ms  7.361 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.135 ms  7.147 ms  7.188 ms
+ 9  ae5.cr10-lon2.ip4.gtt.net (46.33.78.85)  13.067 ms  13.117 ms  13.071 ms
+10  xe-0-3-3.cr0-nyc2.ip4.gtt.net (89.149.133.238)  81.569 ms  81.589 ms  81.572 ms
+11  218.30.53.81 (218.30.53.81)  120.370 ms  118.919 ms  116.959 ms
+12  202.97.49.177 (202.97.49.177)  155.792 ms  155.776 ms  155.725 ms
+13  202.97.18.169 (202.97.18.169)  335.257 ms  335.178 ms  332.621 ms
+14  202.97.94.89 (202.97.94.89)  255.974 ms  253.124 ms  252.942 ms
+15  202.97.94.121 (202.97.94.121)  335.050 ms  335.214 ms 202.97.94.129 (202.97.94.129)  254.667 ms
+16  113.96.254.5 (113.96.254.5)  334.791 ms 113.96.254.25 (113.96.254.25)  337.000 ms 113.96.254.5 (113.96.254.5)  335.469 ms
+17  218.16.118.10 (218.16.118.10)  255.723 ms 218.16.126.205 (218.16.126.205)  335.096 ms  335.373 ms
+18  121.14.130.134 (121.14.130.134)  330.443 ms  331.247 ms  331.239 ms
+19  218.16.120.36 (218.16.120.36)  259.003 ms  182.229 ms  182.201 ms
+\n www.jaguar-network.com
+traceroute to www.jaguar-network.com (85.31.196.218), 30 hops max, 60 byte packets
+ 1  cmp-0-gw.uea.ac.uk (139.222.0.1)  1.055 ms  1.454 ms  1.866 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.442 ms  0.424 ms  0.689 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.141 ms  1.121 ms  1.046 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.406 ms  1.515 ms  1.262 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  7.890 ms  7.878 ms  7.850 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.759 ms  7.667 ms  7.744 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  33.146 ms  31.880 ms  29.893 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.129 ms  7.098 ms  7.095 ms
+ 9  ae5.cr10-lon2.ip4.gtt.net (46.33.78.85)  7.558 ms  7.547 ms  7.529 ms
+10  et-0-0-50.cr11-lon2.ip4.gtt.net (213.254.215.10)  7.514 ms  7.458 ms  7.439 ms
+11  ip4.gtt.net (77.67.98.54)  7.196 ms  7.402 ms  7.391 ms
+12  ae-0.r24.londen12.uk.bb.gin.ntt.net (129.250.4.140)  7.361 ms  7.464 ms  7.440 ms
+13  ae-6.r24.frnkge08.de.bb.gin.ntt.net (129.250.3.13)  24.098 ms  24.036 ms  20.697 ms
+14  ae-1.r00.mrslfr01.fr.bb.gin.ntt.net (129.250.4.70)  37.398 ms  35.111 ms  37.692 ms
+15  185.84.18.26 (185.84.18.26)  35.208 ms  34.766 ms  37.610 ms
+16  be2.hr02.mar02.jaguar-network.net (85.31.194.79)  38.042 ms  35.153 ms  38.104 ms
+17  jnwebsite.as30781.net (85.31.196.218)  33.795 ms  33.954 ms  33.209 ms
+\n www.rhnet.com
+traceroute to www.rhnet.com (98.124.199.21), 30 hops max, 60 byte packets
+ 1  cmp-0-gw.uea.ac.uk (139.222.0.1)  1.066 ms  1.430 ms  1.844 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.458 ms  0.444 ms  0.431 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.089 ms  1.124 ms  1.057 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  2.745 ms  2.843 ms  2.546 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.178 ms  8.108 ms  8.092 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  8.066 ms  7.839 ms  7.771 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  6.950 ms  6.965 ms  6.948 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  6.896 ms  6.879 ms  6.920 ms
+ 9  ae5.cr10-lon2.ip4.gtt.net (46.33.78.85)  7.810 ms  7.273 ms  7.254 ms
+10  et-0-0-50.cr11-lon2.ip4.gtt.net (213.254.215.10)  7.698 ms  7.095 ms  6.971 ms
+11  ip4.gtt.net (77.67.98.54)  7.301 ms  7.448 ms  7.393 ms
+12  ae-0.r24.londen12.uk.bb.gin.ntt.net (129.250.4.140)  7.550 ms  7.503 ms  7.519 ms
+13  ae-5.r24.nycmny01.us.bb.gin.ntt.net (129.250.2.18)  75.475 ms  80.572 ms  75.437 ms
+14  ae-2.r20.sttlwa01.us.bb.gin.ntt.net (129.250.4.13)  142.220 ms  137.859 ms  134.821 ms
+15  ae-8.r23.sttlwa01.us.bb.gin.ntt.net (129.250.6.38)  138.260 ms  135.318 ms  134.695 ms
+16  ae-3.r23.snjsca04.us.bb.gin.ntt.net (129.250.3.124)  163.010 ms  164.322 ms  156.764 ms
+17  ae-45.r01.snjsca04.us.bb.gin.ntt.net (129.250.3.175)  160.233 ms  151.494 ms  156.311 ms
+18  ae-4.r05.plalca01.us.bb.gin.ntt.net (129.250.5.32)  157.747 ms  154.446 ms  153.335 ms
+19  xe-0-5-0-1-9.r05.plalca01.us.ce.gin.ntt.net (204.2.241.58)  157.969 ms  154.254 ms  157.570 ms
+20  64.98.4.6 (64.98.4.6)  150.795 ms  155.972 ms  161.126 ms
+21  98.124.199.21 (98.124.199.21)  163.532 ms  153.947 ms  150.531 ms
+\n www.zintana.com.br
+traceroute to www.zintana.com.br (69.195.124.173), 30 hops max, 60 byte packets
+ 1  cmp-0-gw.uea.ac.uk (139.222.0.1)  1.069 ms  1.546 ms  1.879 ms
+ 2  core-from-cmp.uea.ac.uk (10.0.0.1)  0.407 ms  0.862 ms  0.848 ms
+ 3  pfw-from-campus.uea.ac.uk (193.62.92.124)  1.135 ms  1.107 ms  1.086 ms
+ 4  bound-from-pfw.uea.ac.uk (193.62.92.71)  1.584 ms  1.440 ms  1.315 ms
+ 5  xe-9-0-1.londpg-ban1.ja.net (146.97.41.209)  8.429 ms  8.369 ms  8.375 ms
+ 6  ae26.londpg-sbr2.ja.net (146.97.35.233)  7.987 ms  7.972 ms  8.075 ms
+ 7  ae29.londhx-sbr1.ja.net (146.97.33.1)  7.098 ms  7.092 ms  7.073 ms
+ 8  ae0.londhx-ban2.ja.net (146.97.35.198)  7.053 ms  7.034 ms  7.137 ms
+ 9  ae5.cr10-lon2.ip4.gtt.net (46.33.78.85)  8.154 ms  8.174 ms  8.125 ms
+10  et-0-0-50.cr11-lon2.ip4.gtt.net (213.254.215.10)  9.725 ms  13.588 ms  13.102 ms
+11  ip4.gtt.net (77.67.98.54)  7.950 ms  7.424 ms  7.467 ms
+12  ae-0.r24.londen12.uk.bb.gin.ntt.net (129.250.4.140)  7.450 ms  7.570 ms  7.422 ms
+13  ae-5.r24.nycmny01.us.bb.gin.ntt.net (129.250.2.18)  76.975 ms  76.963 ms  81.901 ms
+14  ae-2.r20.sttlwa01.us.bb.gin.ntt.net (129.250.4.13)  152.298 ms  148.184 ms  168.095 ms
+15  ae-8.r23.sttlwa01.us.bb.gin.ntt.net (129.250.6.38)  149.786 ms  147.850 ms  142.520 ms
+16  ae-3.r23.snjsca04.us.bb.gin.ntt.net (129.250.3.124)  156.941 ms  155.794 ms  158.638 ms
+17  ae-41.r02.snjsca04.us.bb.gin.ntt.net (129.250.6.119)  154.466 ms  154.853 ms  161.283 ms
+18  ae-1.a01.snjsca04.us.bb.gin.ntt.net (129.250.2.48)  159.449 ms  153.150 ms  165.503 ms
+19  ae-0.endurance.snjsca04.us.bb.gin.ntt.net (129.250.195.138)  162.446 ms  156.983 ms  163.489 ms
+20  162-144-240-153.unifiedlayer.com (162.144.240.153)  164.547 ms 162-144-240-145.unifiedlayer.com (162.144.240.145)  161.653 ms 162-144-240-161.unifiedlayer.com (162.144.240.161)  163.193 ms
+21  162-144-240-15.unifiedlayer.com (162.144.240.15)  175.341 ms 162-144-240-23.unifiedlayer.com (162.144.240.23)  170.037 ms 162-144-240-15.unifiedlayer.com (162.144.240.15)  169.939 ms
+22  box973.bluehost.com (69.195.124.173)  164.755 ms  158.182 ms  155.042 ms
+= = = = = = = = = = = = = = = = = \n

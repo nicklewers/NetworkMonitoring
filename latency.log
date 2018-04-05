@@ -1,0 +1,14 @@
+
+Thu  5 Apr 13:55:02 BST 2018
+ www.linkwan.com10 packets transmitted, 10 received, 0% packet loss, time 9010ms
+rtt min/avg/max/mdev = 182.864/242.990/259.432/29.700 ms
+
+ www.jaguar-network.com10 packets transmitted, 10 received, 0% packet loss, time 9009ms
+rtt min/avg/max/mdev = 32.301/32.781/33.224/0.372 ms
+
+ www.rhnet.is10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 45.066/45.682/46.027/0.433 ms
+
+ www.zintana.com.br10 packets transmitted, 10 received, 0% packet loss, time 9008ms
+rtt min/avg/max/mdev = 154.493/156.458/157.153/0.858 ms
+= = = = = = = = = = = = = = = = = 
