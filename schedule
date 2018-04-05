@@ -1,6 +1,7 @@
 SHELL=/bin/bash
 PATH=/sbin:/bin:/use/sbin:/usr/bin
 MAILTO=""
+# change to your own home directory for testing
 HOME=/home/stusci5/mvk15gsu
 
 

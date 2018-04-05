@@ -4,15 +4,15 @@
 
   printf "$(date)"
   printf "\n www.linkwan.com"
-  ping -c 10 www.linkwan.com | tail -2
+  ping -c 120 www.linkwan.com | tail -2
 
   printf "\n www.jaguar-network.com"
-  ping -c 10 www.jaguar-network.com | tail -2
+  ping -c 120 www.jaguar-network.com | tail -2
 
 
   printf "\n www.rhnet.is"
-  ping -c 10 www.rhnet.is | tail -2
+  ping -c 120 www.rhnet.is | tail -2
 
   printf "\n www.zintana.com.br"
-  ping -c 10 www.zintana.com.br | tail -2
+  ping -c 120 www.zintana.com.br | tail -2
   printf  "= = = = = = = = = = = = = = = = = \n"

@@ -1,16 +1,4 @@
-Bakery in Paris, France
-http://babines-bakery.com/
-
-Cretan pots shop in sussex, england
-http://www.potsandpithoi.com/
-
-Hotel in Costa Rica
-http://www.waterfallgardens.com/
-
-Eco lodge in Bali
-http://udayanaecolodge.com/
-
-ALT:
+FOR PING AND TRACEROUTE:
 
 china
 www.linkwan.com
@@ -23,3 +11,5 @@ www.rhnet.is
 
 brasil
 www.zintana.com.br
+
+FOR WGET:
