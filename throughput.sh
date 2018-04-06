@@ -6,7 +6,7 @@ wget -O ~/net_monitor/downloads/100kb.txt https://mirror.aarnet.edu.au/pub/ftp.k
 
 printf "\n MEDIUM FILE \n" >> ~/net_monitor/throughput.log
 # medium file
-wget -O ~/net_monitor/downloads/2mb.zip https://mirror.aarnet.edu.au/pub/ftp.kernel.org/linux/docs/man-pages/man-pages-3.80.tar.gz 1 > /dev/null 2>> ~/net_monitor/throughput.log~/net_monitor/throughput.log
+wget -O ~/net_monitor/downloads/2mb.zip https://mirror.aarnet.edu.au/pub/ftp.kernel.org/linux/docs/man-pages/man-pages-3.80.tar.gz 1 > /dev/null 2>> ~/net_monitor/throughput.log
 
 printf "\n LARGE FILE \n" >> ~/net_monitor/throughput.log
 # large file
