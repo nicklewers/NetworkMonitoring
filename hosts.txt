@@ -13,3 +13,4 @@ brasil
 www.zintana.com.br
 
 FOR WGET:
+https://mirror.aarnet.edu.au/pub/ftp.kernel.org/linux/docs/lanana/device-list/devices-2.6.txt
