@@ -12,3 +12,458 @@ rtt min/avg/max/mdev = 45.066/45.682/46.027/0.433 ms
  www.zintana.com.br10 packets transmitted, 10 received, 0% packet loss, time 9008ms
 rtt min/avg/max/mdev = 154.493/156.458/157.153/0.858 ms
 = = = = = = = = = = = = = = = = = 
+Fri  6 Apr 21:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119136ms
+rtt min/avg/max/mdev = 252.949/254.901/256.097/1.021 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119141ms
+rtt min/avg/max/mdev = 32.032/32.310/32.626/0.209 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119166ms
+rtt min/avg/max/mdev = 45.018/45.410/45.765/0.263 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119159ms
+rtt min/avg/max/mdev = 154.394/155.630/156.383/0.547 ms
+= = = = = = = = = = = = = = = = = 
+Sat  7 Apr 07:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 118 received, 1% packet loss, time 119183ms
+rtt min/avg/max/mdev = 207.642/246.905/258.114/18.307 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119155ms
+rtt min/avg/max/mdev = 32.030/32.371/32.756/0.205 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119133ms
+rtt min/avg/max/mdev = 45.033/45.463/46.681/0.357 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119083ms
+rtt min/avg/max/mdev = 106.894/147.121/156.532/17.853 ms
+= = = = = = = = = = = = = = = = = 
+Sat  7 Apr 11:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 119 received, 0% packet loss, time 119135ms
+rtt min/avg/max/mdev = 253.120/256.719/258.659/1.963 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119146ms
+rtt min/avg/max/mdev = 32.053/32.598/33.211/0.293 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119177ms
+rtt min/avg/max/mdev = 45.608/45.846/46.369/0.211 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119152ms
+rtt min/avg/max/mdev = 156.198/156.989/158.058/0.577 ms
+= = = = = = = = = = = = = = = = = 
+Sat  7 Apr 15:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 117 received, 2% packet loss, time 119035ms
+rtt min/avg/max/mdev = 254.449/292.583/324.609/20.009 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119136ms
+rtt min/avg/max/mdev = 32.152/32.306/32.805/0.185 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119147ms
+rtt min/avg/max/mdev = 45.219/45.370/45.623/0.263 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119165ms
+rtt min/avg/max/mdev = 120.835/148.876/155.804/13.022 ms
+= = = = = = = = = = = = = = = = = 
+Sat  7 Apr 21:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119113ms
+rtt min/avg/max/mdev = 252.981/253.619/259.047/0.813 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119108ms
+rtt min/avg/max/mdev = 32.073/32.180/32.430/0.205 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119094ms
+rtt min/avg/max/mdev = 45.037/45.152/46.172/0.236 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119081ms
+rtt min/avg/max/mdev = 144.078/152.904/154.978/3.881 ms
+= = = = = = = = = = = = = = = = = 
+Sun  8 Apr 07:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 118 received, 1% packet loss, time 119028ms
+rtt min/avg/max/mdev = 253.577/254.127/255.443/0.523 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119128ms
+rtt min/avg/max/mdev = 32.127/32.225/32.796/0.233 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119128ms
+rtt min/avg/max/mdev = 45.062/45.240/45.513/0.178 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119115ms
+rtt min/avg/max/mdev = 154.286/154.898/158.929/0.567 ms
+= = = = = = = = = = = = = = = = = 
+Sun  8 Apr 11:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119147ms
+rtt min/avg/max/mdev = 252.881/255.908/259.804/1.032 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119148ms
+rtt min/avg/max/mdev = 32.049/32.424/32.997/0.203 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119171ms
+rtt min/avg/max/mdev = 45.362/45.579/45.965/0.284 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119141ms
+rtt min/avg/max/mdev = 155.548/156.127/157.689/0.445 ms
+= = = = = = = = = = = = = = = = = 
+Sun  8 Apr 15:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 112 received, 6% packet loss, time 119031ms
+rtt min/avg/max/mdev = 247.913/301.050/314.079/15.557 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119098ms
+rtt min/avg/max/mdev = 32.050/32.137/32.456/0.228 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119106ms
+rtt min/avg/max/mdev = 44.995/45.134/45.574/0.139 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119163ms
+rtt min/avg/max/mdev = 147.969/153.915/156.893/1.937 ms
+= = = = = = = = = = = = = = = = = 
+Sun  8 Apr 21:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119125ms
+rtt min/avg/max/mdev = 253.108/255.705/258.269/1.434 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119168ms
+rtt min/avg/max/mdev = 32.339/32.498/33.164/0.177 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119173ms
+rtt min/avg/max/mdev = 45.399/45.630/46.021/0.166 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119150ms
+rtt min/avg/max/mdev = 155.611/156.212/156.885/0.545 ms
+= = = = = = = = = = = = = = = = = 
+Mon  9 Apr 07:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119145ms
+rtt min/avg/max/mdev = 186.102/254.116/264.694/14.121 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119177ms
+rtt min/avg/max/mdev = 0.000/29.665/32.987/9.426 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119156ms
+rtt min/avg/max/mdev = 0.000/43.776/46.135/9.135 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119088ms
+rtt min/avg/max/mdev = 154.289/156.362/158.112/1.039 ms
+= = = = = = = = = = = = = = = = = 
+Mon  9 Apr 11:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 119 received, 0% packet loss, time 119152ms
+rtt min/avg/max/mdev = 229.819/249.405/255.332/8.198 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119085ms
+rtt min/avg/max/mdev = 32.075/32.245/32.829/0.178 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119129ms
+rtt min/avg/max/mdev = 45.045/45.369/46.263/0.386 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119111ms
+rtt min/avg/max/mdev = 154.261/154.923/155.409/0.447 ms
+= = = = = = = = = = = = = = = = = 
+Mon  9 Apr 15:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119040ms
+rtt min/avg/max/mdev = 255.178/257.103/259.150/1.111 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119150ms
+rtt min/avg/max/mdev = 32.038/32.440/32.789/0.211 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119173ms
+rtt min/avg/max/mdev = 45.404/45.636/46.867/0.310 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119149ms
+rtt min/avg/max/mdev = 154.247/156.031/158.132/0.787 ms
+= = = = = = = = = = = = = = = = = 
+Mon  9 Apr 21:35:04 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119040ms
+rtt min/avg/max/mdev = 220.614/253.201/258.331/6.662 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119133ms
+rtt min/avg/max/mdev = 32.055/32.331/33.285/0.291 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119134ms
+rtt min/avg/max/mdev = 44.980/45.335/45.650/0.188 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119043ms
+rtt min/avg/max/mdev = 154.344/155.216/155.919/0.639 ms
+= = = = = = = = = = = = = = = = = 
+Tue 10 Apr 07:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119131ms
+rtt min/avg/max/mdev = 253.015/255.382/266.966/1.558 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119072ms
+rtt min/avg/max/mdev = 32.067/32.412/34.017/0.279 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119160ms
+rtt min/avg/max/mdev = 45.287/45.482/46.325/0.225 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119113ms
+rtt min/avg/max/mdev = 110.030/153.728/156.344/9.040 ms
+= = = = = = = = = = = = = = = = = 
+Tue 10 Apr 11:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119138ms
+rtt min/avg/max/mdev = 255.876/257.257/259.783/0.970 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119127ms
+rtt min/avg/max/mdev = 0.000/31.283/49.820/8.160 ms
+
+ www.rhnet.is120 packets transmitted, 119 received, 0% packet loss, time 119141ms
+rtt min/avg/max/mdev = 45.043/45.736/46.732/0.461 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119143ms
+rtt min/avg/max/mdev = 154.224/156.552/158.418/1.244 ms
+= = = = = = = = = = = = = = = = = 
+Tue 10 Apr 15:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 119 received, 0% packet loss, time 119049ms
+rtt min/avg/max/mdev = 217.166/246.910/257.542/13.012 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119078ms
+rtt min/avg/max/mdev = 32.169/32.449/32.945/0.199 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119152ms
+rtt min/avg/max/mdev = 45.248/45.420/46.748/0.303 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119181ms
+rtt min/avg/max/mdev = 119.830/148.663/156.417/13.598 ms
+= = = = = = = = = = = = = = = = = 
+Tue 10 Apr 21:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 119 received, 0% packet loss, time 119059ms
+rtt min/avg/max/mdev = 247.738/251.545/254.739/1.842 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119101ms
+rtt min/avg/max/mdev = 32.176/32.782/33.441/0.310 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119154ms
+rtt min/avg/max/mdev = 45.627/45.960/50.979/0.565 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119156ms
+rtt min/avg/max/mdev = 154.280/157.041/161.670/1.112 ms
+= = = = = = = = = = = = = = = = = 
+Wed 11 Apr 07:35:04 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119163ms
+rtt min/avg/max/mdev = 247.169/248.076/250.580/1.237 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119215ms
+rtt min/avg/max/mdev = 32.107/32.228/33.295/0.226 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119180ms
+rtt min/avg/max/mdev = 44.959/45.065/45.391/0.245 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119172ms
+rtt min/avg/max/mdev = 154.152/154.305/154.767/0.349 ms
+= = = = = = = = = = = = = = = = = 
+Wed 11 Apr 11:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 119 received, 0% packet loss, time 119138ms
+rtt min/avg/max/mdev = 248.936/249.668/251.224/0.624 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119153ms
+rtt min/avg/max/mdev = 32.360/32.486/32.816/0.265 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119091ms
+rtt min/avg/max/mdev = 45.040/45.395/45.695/0.324 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119157ms
+rtt min/avg/max/mdev = 154.253/155.407/156.302/0.601 ms
+= = = = = = = = = = = = = = = = = 
+Wed 11 Apr 15:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119148ms
+rtt min/avg/max/mdev = 180.274/248.454/275.845/29.132 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 118970ms
+rtt min/avg/max/mdev = 0.000/31.809/33.880/5.105 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119111ms
+rtt min/avg/max/mdev = 0.000/40.086/46.450/15.154 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119135ms
+rtt min/avg/max/mdev = 13.038/147.777/158.996/25.353 ms
+= = = = = = = = = = = = = = = = = 
+Wed 11 Apr 21:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119049ms
+rtt min/avg/max/mdev = 250.410/253.129/255.735/1.293 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119152ms
+rtt min/avg/max/mdev = 32.061/32.453/33.749/0.290 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119136ms
+rtt min/avg/max/mdev = 45.025/45.518/45.967/0.245 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119105ms
+rtt min/avg/max/mdev = 154.272/155.959/164.495/1.195 ms
+= = = = = = = = = = = = = = = = = 
+Thu 12 Apr 07:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 119 received, 0% packet loss, time 119413ms
+rtt min/avg/max/mdev = 250.525/253.118/254.834/1.405 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119145ms
+rtt min/avg/max/mdev = 32.058/32.442/33.709/0.224 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119179ms
+rtt min/avg/max/mdev = 45.009/45.614/47.571/0.366 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119104ms
+rtt min/avg/max/mdev = 169.876/171.678/173.097/0.909 ms
+= = = = = = = = = = = = = = = = = 
+Thu 12 Apr 11:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 119 received, 0% packet loss, time 119122ms
+rtt min/avg/max/mdev = 251.302/251.886/255.395/0.722 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119139ms
+rtt min/avg/max/mdev = 32.112/32.271/32.734/0.164 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119132ms
+rtt min/avg/max/mdev = 45.013/45.280/45.716/0.309 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119131ms
+rtt min/avg/max/mdev = 149.098/170.158/172.839/3.389 ms
+= = = = = = = = = = = = = = = = = 
+Thu 12 Apr 15:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 116 received, 3% packet loss, time 119139ms
+rtt min/avg/max/mdev = 310.741/347.463/372.735/14.559 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119102ms
+rtt min/avg/max/mdev = 32.062/33.369/46.737/2.499 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119093ms
+rtt min/avg/max/mdev = 44.987/45.857/54.875/1.063 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119087ms
+rtt min/avg/max/mdev = 182.560/185.712/199.420/3.095 ms
+= = = = = = = = = = = = = = = = = 
+Thu 12 Apr 21:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119124ms
+rtt min/avg/max/mdev = 250.442/251.675/265.533/1.478 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119124ms
+rtt min/avg/max/mdev = 32.039/32.220/32.617/0.215 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119135ms
+rtt min/avg/max/mdev = 45.150/45.280/45.988/0.266 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119113ms
+rtt min/avg/max/mdev = 154.682/155.164/178.313/2.166 ms
+= = = = = = = = = = = = = = = = = 
+Fri 13 Apr 07:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119286ms
+rtt min/avg/max/mdev = 250.536/252.077/256.464/0.903 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119138ms
+rtt min/avg/max/mdev = 32.045/32.321/34.498/0.344 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119138ms
+rtt min/avg/max/mdev = 45.038/45.333/46.035/0.294 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119126ms
+rtt min/avg/max/mdev = 151.728/152.155/153.666/0.465 ms
+= = = = = = = = = = = = = = = = = 
+Fri 13 Apr 11:35:02 BST 2018
+ www.linkwan.com120 packets transmitted, 119 received, 0% packet loss, time 119104ms
+rtt min/avg/max/mdev = 250.654/255.160/264.667/1.739 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119157ms
+rtt min/avg/max/mdev = 27.877/32.474/33.245/0.516 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119158ms
+rtt min/avg/max/mdev = 45.008/45.613/46.302/0.384 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119137ms
+rtt min/avg/max/mdev = 151.037/152.969/154.145/0.995 ms
+= = = = = = = = = = = = = = = = = 
+Fri 13 Apr 15:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119110ms
+rtt min/avg/max/mdev = 261.503/265.065/281.143/3.267 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119133ms
+rtt min/avg/max/mdev = 32.135/32.288/33.258/0.263 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119137ms
+rtt min/avg/max/mdev = 45.170/45.312/45.690/0.211 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119116ms
+rtt min/avg/max/mdev = 125.254/147.523/152.874/9.826 ms
+= = = = = = = = = = = = = = = = = 
+Fri 13 Apr 21:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119139ms
+rtt min/avg/max/mdev = 249.875/251.263/265.162/1.554 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119161ms
+rtt min/avg/max/mdev = 32.169/32.693/34.594/0.294 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119153ms
+rtt min/avg/max/mdev = 45.548/45.810/46.333/0.251 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119200ms
+rtt min/avg/max/mdev = 75.569/138.497/154.711/30.413 ms
+= = = = = = = = = = = = = = = = = 
+Sat 14 Apr 07:35:04 BST 2018
+ www.linkwan.com120 packets transmitted, 117 received, 2% packet loss, time 119194ms
+rtt min/avg/max/mdev = 175.210/237.877/291.571/31.243 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119175ms
+rtt min/avg/max/mdev = 0.000/30.824/33.421/7.675 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119136ms
+rtt min/avg/max/mdev = 45.062/45.716/46.150/0.330 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119141ms
+rtt min/avg/max/mdev = 152.806/153.588/154.687/0.688 ms
+= = = = = = = = = = = = = = = = = 
+Sat 14 Apr 11:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119113ms
+rtt min/avg/max/mdev = 246.921/248.877/256.387/1.366 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119114ms
+rtt min/avg/max/mdev = 32.172/32.503/32.924/0.236 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119148ms
+rtt min/avg/max/mdev = 45.245/45.454/47.731/0.361 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119092ms
+rtt min/avg/max/mdev = 151.078/152.115/153.698/0.732 ms
+= = = = = = = = = = = = = = = = = 
+Sat 14 Apr 15:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 118 received, 1% packet loss, time 119145ms
+rtt min/avg/max/mdev = 247.193/252.108/280.351/3.645 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119175ms
+rtt min/avg/max/mdev = 32.168/32.655/33.459/0.252 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119119ms
+rtt min/avg/max/mdev = 45.040/45.679/46.381/0.374 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119137ms
+rtt min/avg/max/mdev = 152.717/153.510/156.680/0.655 ms
+= = = = = = = = = = = = = = = = = 
+Sat 14 Apr 21:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119044ms
+rtt min/avg/max/mdev = 248.879/249.658/250.513/0.636 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119160ms
+rtt min/avg/max/mdev = 32.300/32.469/33.296/0.216 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119160ms
+rtt min/avg/max/mdev = 45.048/45.534/46.175/0.303 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119045ms
+rtt min/avg/max/mdev = 151.175/152.589/153.778/0.716 ms
+= = = = = = = = = = = = = = = = = 
+Sun 15 Apr 07:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119176ms
+rtt min/avg/max/mdev = 194.172/239.374/255.450/21.829 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119172ms
+rtt min/avg/max/mdev = 32.320/32.497/34.233/0.260 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119170ms
+rtt min/avg/max/mdev = 45.052/45.551/45.891/0.325 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119132ms
+rtt min/avg/max/mdev = 151.075/152.595/154.013/0.819 ms
+= = = = = = = = = = = = = = = = = 
+Sun 15 Apr 11:35:03 BST 2018
+ www.linkwan.com120 packets transmitted, 120 received, 0% packet loss, time 119177ms
+rtt min/avg/max/mdev = 238.953/252.570/350.191/21.969 ms
+
+ www.jaguar-network.com120 packets transmitted, 120 received, 0% packet loss, time 119102ms
+rtt min/avg/max/mdev = 32.066/32.217/32.487/0.188 ms
+
+ www.rhnet.is120 packets transmitted, 120 received, 0% packet loss, time 119028ms
+rtt min/avg/max/mdev = 45.042/45.153/45.833/0.176 ms
+
+ www.zintana.com.br120 packets transmitted, 120 received, 0% packet loss, time 119121ms
+rtt min/avg/max/mdev = 151.188/151.418/152.328/0.442 ms
+= = = = = = = = = = = = = = = = = 
